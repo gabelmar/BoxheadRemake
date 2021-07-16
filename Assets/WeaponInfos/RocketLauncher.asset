@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a508f0abd299b2c48839b5cbbcd55dba, type: 3}
+  m_Name: RocketLauncher
+  m_EditorClassIdentifier: 
+  DisplayName: Rockets
+  Damage: 100
+  RPM: 40
+  ProjectileSpeed: 40
+  MaxAmmo: 20
+  Type: 3
+  BulletPrefab: {fileID: 5709329779378392441, guid: b9d0ea9b8f7584544aed676a15ac04df,
+    type: 3}
